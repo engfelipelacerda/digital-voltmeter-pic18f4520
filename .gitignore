@@ -1,0 +1,47 @@
+# ==========================
+# MPLAB X
+# ==========================
+
+**/build/
+**/dist/
+
+# Arquivos gerados pelo compilador
+*.o
+*.d
+*.i
+*.s
+*.elf
+*.hex
+*.cof
+*.map
+*.lst
+*.sym
+*.rlf
+*.cod
+*.obj
+*.p1
+*.cmf
+*.mum
+
+# Arquivos temporários do MPLAB
+*.mdb
+*.mcw
+
+# ==========================
+# Sistema
+# ==========================
+
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Editores
+# ==========================
+
+.vscode/
+.idea/
+
+# Arquivos de swap
+*.swp
+*.swo
+*~
